@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmmerMan
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ collectingFruit()
+comment3.params=
+comment3.target=void\ movingAndTurning()
+comment4.params=
+comment4.target=boolean\ foundRock()
+comment5.params=
+comment5.target=void\ foundBomb()
+numComments=6
